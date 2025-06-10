@@ -5,6 +5,7 @@ This repository contains the files and documentation related to the design and s
 ---
 
 ## Repository Structure
+'''
 quadrature-down-converter/
 │
 ├── ltspice-model/ # LTSpice schematic and simulation files
@@ -21,7 +22,7 @@ quadrature-down-converter/
 ├── waveforms/ # Screenshots of simulation waveforms
 │
 └── README.md # Project overview and details (this file)
-
+'''
 
 ---
 
@@ -58,5 +59,3 @@ The Quadrature Down Converter (QDC) is a crucial block in communication systems 
 - Samyak Soni 
 
 ---
-
-If you want, I can help generate a nice **LinkedIn post draft** based on this too! Just say the word.
