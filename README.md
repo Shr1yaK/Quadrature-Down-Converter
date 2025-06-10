@@ -5,7 +5,7 @@ This repository contains the files and documentation related to the design and s
 ---
 
 ## Repository Structure
-'''
+```
 quadrature-down-converter/
 │
 ├── ltspice-model/ # LTSpice schematic and simulation files
