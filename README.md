@@ -22,7 +22,7 @@ quadrature-down-converter/
 ├── waveforms/ # Screenshots of simulation waveforms
 │
 └── README.md # Project overview and details (this file)
-'''
+```
 
 ---
 
