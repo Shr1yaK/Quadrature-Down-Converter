@@ -17,10 +17,9 @@ quadrature-down-converter/
 │ ├── final-report.pdf
 │ └── latex-source/ # LaTeX source files for the final report
 │
-├── plots/ # Bode plots and other frequency response images
+├── simulation images/ # Bode plots and other frequency response images and screenshots of simulation waveforms
 │
-├── waveforms/ # Screenshots of simulation waveforms
-│
+├──.gitignore 
 └── README.md # Project overview and details (this file)
 ```
 
